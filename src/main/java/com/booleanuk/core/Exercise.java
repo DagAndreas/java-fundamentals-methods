@@ -94,6 +94,4 @@ public class Exercise extends ExerciseBase {
         return s.toUpperCase() + "!".repeat(Math.max(0, marks));
     }
 
-
-
 }
